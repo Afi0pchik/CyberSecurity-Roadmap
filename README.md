@@ -47,6 +47,8 @@ Manual testing is mandatory.
 - [Hacking-Related-Books](https://github.com/fmottamendes/Hacking-related-books)
 - [Hacking-Resources](https://github.com/rng70/Hacking-Resources)
 
+### A website with a simple cybersecurity roadmap for beginners(Recommend check only Red Team if you want Bug Hunting)
+- [Roadmap](https://roadmap.sh/cyber-security)
 ---
 
 ### Web Security Videos and Podcasts
