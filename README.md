@@ -1,4 +1,4 @@
-## WEB SECURITY BUG BOUNTY — RESOURCES
+## WEB SECURITY BUG BOUNTY — ROADMAP
 
 This repository contains a curated collection of books, videos, and tools
 for learning Web Security Bug Bounty.
